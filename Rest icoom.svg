@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="24" height="24" viewBox="0 0 24 24"
+    stroke-linecap="round"  stroke-linejoin="round">
+  <title>Vuilniszak zijaanzicht (gevuld en dichtgeknoopt)</title>
+
+  <!-- Knop/lint bovenaan (knoop + strikoren) -->
+  <path d="M12 5.2c.2-.9.8-1.6 1.7-2.3" />
+  <path d="M12 5.2c-.2-.9-.8-1.6-1.7-2.3" />
+  <!-- Ovale knoop -->
+  <ellipse cx="12" cy="6.4" rx="2.1" ry="0.9" />
+  <!-- Lichte plooien onder de knoop -->
+  <path d="M9.6 6.8c.7.8 1.5 1.5 2.4 1.5s1.7-.7 2.4-1.5" />
+
+  <!-- Zakbody: zijaanzicht met bolling, gevuld gevoel -->
+  <path d="M6.5 9.2
+           c-.9 1.8-1.4 3.8-1.4 6.2
+           c0 1.4.5 2.5 1.2 3.4
+           c.5.6 1.3 1 2.2 1.2
+           c1.7.4 3.5.6 5.3.6
+           c1.6 0 3.2-.2 4.7-.7
+           c.8-.2 1.4-.7 1.8-1.4
+           c.4-.7.6-1.5.6-2.3
+           c0-2.6-.6-4.8-1.9-6.7
+           c-.3-.4-.7-.7-1.2-.9
+           c-.7-.3-1.6-.6-2.6-.8
+           c-1-.2-2-.3-3-.3
+           c-1 0-2 .1-3 .3
+           c-1 .2-1.9.5-2.6.8
+           c-.6.2-1 .5-1.3.9z" />
+
+  <!-- Onderste plooien/voet voor ‘gevuld’ effect -->
+  <path d="M5.8 18.7c1.1.7 2.5 1.1 4.1 1.3
+           c1.6.2 3.3.2 4.9 0
+           c1.6-.2 3-.6 4.1-1.3" />
+</svg>
+
+<!--stroke-linecap="round"-->
